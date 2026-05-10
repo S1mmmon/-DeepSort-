@@ -1,0 +1,8 @@
+
+
+python optimized_smiletrack.py --source test2.mp4 --weights weights/yolov8l.pt --view-img --conf-thres 0.25 --img-size 640 --match-thresh 0.5 --track-buffer 50 --proximity-thresh 0.3 --new-track-thresh 0.5 --name yolov8_optimized --mot20 --fuse-score --save-vid --save-txt
+
+python track_4.15.py --source test2.mp4 --weights weights/yolov8l.pt --view-img --save-vid --save-txt
+
+
+python optimized_smiletrack_yolov8.py --source test2.mp4 --weights weights/yolov8l.pt --view-img --save-vid

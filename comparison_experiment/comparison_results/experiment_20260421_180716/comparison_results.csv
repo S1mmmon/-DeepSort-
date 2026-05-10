@@ -1,0 +1,3 @@
+﻿model_version,total_frames,total_unique_vehicles,id_switches,switch_rate_percent,vehicle_detections,avg_processing_time_ms,avg_fps,max_tracks_per_frame,avg_tracks_per_frame,avg_track_length_frames,total_switch_events
+yolov8,301,79,17,0.2537313432835821,6700,1530.2161677678425,0.6535024404158011,21,16.596666666666668,62.08860759493671,17
+yolov11,301,85,21,0.25207057976233344,8331,1127.090539932251,0.8872401679993779,24,20.466666666666665,71.24705882352941,21

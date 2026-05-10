@@ -1,0 +1,34 @@
+{
+  "experiment_time": "2026-04-21 18:21:22",
+  "total_duration_seconds": 845.757700920105,
+  "results": [
+    {
+      "model_version": "yolov8",
+      "total_frames": 301,
+      "total_unique_vehicles": 79,
+      "id_switches": 17,
+      "switch_rate_percent": 0.2537313432835821,
+      "vehicle_detections": 6700,
+      "avg_processing_time_ms": 1530.2161677678425,
+      "avg_fps": 0.6535024404158011,
+      "max_tracks_per_frame": 21,
+      "avg_tracks_per_frame": 16.596666666666668,
+      "avg_track_length_frames": 62.08860759493671,
+      "total_switch_events": 17
+    },
+    {
+      "model_version": "yolov11",
+      "total_frames": 301,
+      "total_unique_vehicles": 85,
+      "id_switches": 21,
+      "switch_rate_percent": 0.25207057976233344,
+      "vehicle_detections": 8331,
+      "avg_processing_time_ms": 1127.090539932251,
+      "avg_fps": 0.8872401679993779,
+      "max_tracks_per_frame": 24,
+      "avg_tracks_per_frame": 20.466666666666665,
+      "avg_track_length_frames": 71.24705882352941,
+      "total_switch_events": 21
+    }
+  ]
+}
