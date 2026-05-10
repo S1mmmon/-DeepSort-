@@ -1,1 +1,3 @@
-# -DeepSort-
+# -SMILEtrack-
+针对Deepsort算法存在的问题，这里使用引入了注意力机制的SMILEtrack算法进行优化，根据指令运行optimized_simletrack_yolov8这个代码，可以直观看到跟踪效果
+亦可以跑git文件夹下的sce.py对比实验，感受yolov8和yolov11的优劣
